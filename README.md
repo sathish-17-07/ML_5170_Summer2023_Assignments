@@ -1,1 +1,1 @@
-# ML_5170_Summer2023_Assignmets
+# ML_5170_Summer2023_Assignments
